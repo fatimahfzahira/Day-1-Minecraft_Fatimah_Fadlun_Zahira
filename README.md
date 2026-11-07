@@ -2,11 +2,11 @@
 
 ### Identitas
 
-- **Nama Lengkap:** Fatimah Fadlun Zahira
-- **Kelompok:** 17 - Minecraft
-- **Program Studi:** Teknik Multimedia dan Jaringan (TMJ)
-- **Jurusan:** Teknik Informatika dan Komputer
-- **Institusi:** Politeknik Negeri Jakarta
+**Nama Lengkap:** Fatimah Fadlun Zahira
+**Kelompok:** 17 - Minecraft
+**Program Studi:** Teknik Multimedia dan Jaringan (TMJ)
+**Jurusan:** Teknik Informatika dan Komputer
+**Institusi:** Politeknik Negeri Jakarta
 
 ---
 
@@ -41,31 +41,27 @@ Context atau konteks merupakan informasi tambahan yang diberikan kepada AI agar 
 #### 3. Struktur Prompt yang Baik
 
 Prompt yang baik memiliki empat komponen utama:
-
-- **Role:** Menentukan peran atau posisi yang harus dijalankan oleh AI.
-- **Task:** Menjelaskan tugas yang harus dikerjakan oleh AI.
-- **Context:** Memberikan informasi latar belakang dan kebutuhan dari tugas tersebut.
-- **Format:** Menentukan bentuk atau format hasil yang diharapkan.
-
-Keempat komponen tersebut dapat digunakan untuk menyusun instruksi yang lebih spesifik dan terarah.
+a. **Role:** Menentukan peran atau posisi yang harus dijalankan oleh AI.
+b. **Task:** Menjelaskan tugas yang harus dikerjakan oleh AI.
+c. **Context:** Memberikan informasi latar belakang dan kebutuhan dari tugas tersebut.
+d. **Format:** Menentukan bentuk atau format hasil yang diharapkan.
 
 #### 4. Contoh Penerapan Prompt
 
 Salah satu contoh yang diberikan dalam workshop adalah pembuatan aplikasi sederhana bernama *Student Task Planner*. Aplikasi tersebut ditujukan untuk membantu mahasiswa tahun pertama dalam mengelola tugas dan tenggat waktu. Beberapa kebutuhan aplikasinya meliputi:
-
-- Menampilkan daftar tugas.
-- Menampilkan judul dan tenggat waktu setiap tugas.
-- Menampilkan status penyelesaian tugas.
-- Memberikan fitur untuk menandai tugas yang telah selesai.
-- Menyediakan filter tugas berdasarkan status.
+a. Menampilkan daftar tugas.
+b. Menampilkan judul dan tenggat waktu setiap tugas.
+c. Menampilkan status penyelesaian tugas.
+d. Memberikan fitur untuk menandai tugas yang telah selesai.
+e. Menyediakan filter tugas berdasarkan status.
 
 #### 5. Keuntungan Prompt Engineering
 
 Beberapa keuntungan Prompt Engineering antara lain:
-1. Meningkatkan performa AI model.
-2. Mengurangi bias dan respons yang bersifat ofensif.
-3. Meningkatkan kontrol dan prediktabilitas.
-4. Memberikan pengalaman pengguna yang lebih baik.
+a. Meningkatkan performa AI model.
+b. Mengurangi bias dan respons yang bersifat ofensif.
+c. Meningkatkan kontrol dan prediktabilitas.
+d. Memberikan pengalaman pengguna yang lebih baik.
 
 ---
 
