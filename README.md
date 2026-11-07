@@ -235,8 +235,6 @@ Berdasarkan seluruh materi yang disampaikan, terdapat beberapa hal penting yang 
 5. **Git Workflow:** Working Directory, Staging Area, dan Git Directory memiliki peran masing-masing dalam proses pengelolaan perubahan.
 6. **Git Commands:** Perintah seperti git init, git add, git commit, git push, dan git pull merupakan dasar yang perlu dipahami.
 7. **Repository Management:** Repository GitHub dapat digunakan sebagai tempat penyimpanan proyek secara online.
-8. **SSH Authentication:** SSH Key dapat digunakan untuk melakukan autentikasi antara komputer lokal dan GitHub.
-9. **AI-Assisted Development:** AI dapat dimanfaatkan sebagai alat bantu dalam membangun aplikasi, mulai dari menyusun ide hingga menghasilkan kode program.
 
 ## Pendapat Pribadi tentang Day 1 Proyek Workshop
 
