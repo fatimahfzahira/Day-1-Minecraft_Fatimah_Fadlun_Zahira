@@ -2,11 +2,11 @@
 
 ### Identitas
 
-**Nama Lengkap:** Fatimah Fadlun Zahira
-**Kelompok:** 17 - Minecraft
-**Program Studi:** Teknik Multimedia dan Jaringan (TMJ)
-**Jurusan:** Teknik Informatika dan Komputer
-**Institusi:** Politeknik Negeri Jakarta
+- **Nama Lengkap:** Fatimah Fadlun Zahira
+- **Kelompok:** 17 - Minecraft
+- **Program Studi:** Teknik Multimedia dan Jaringan (TMJ)
+- **Jurusan:** Teknik Informatika dan Komputer
+- **Institusi:** Politeknik Negeri Jakarta
 
 ---
 
