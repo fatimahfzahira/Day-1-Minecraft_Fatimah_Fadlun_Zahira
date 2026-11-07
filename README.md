@@ -2,11 +2,15 @@
 
 ### Identitas
 
-- **Nama Lengkap:** Fatimah Fadlun Zahira
-- **Kelompok:** 17 - Minecraft
-- **Program Studi:** Teknik Multimedia dan Jaringan (TMJ)
-- **Jurusan:** Teknik Informatika dan Komputer
-- **Institusi:** Politeknik Negeri Jakarta
+**Nama Lengkap:** Fatimah Fadlun Zahira
+
+**Kelompok:** 17 - Minecraft
+
+**Program Studi:** Teknik Multimedia dan Jaringan (TMJ)
+
+**Jurusan:** Teknik Informatika dan Komputer
+
+**Institusi:** Politeknik Negeri Jakarta
 
 ---
 
@@ -41,27 +45,30 @@ Context atau konteks merupakan informasi tambahan yang diberikan kepada AI agar 
 #### 3. Struktur Prompt yang Baik
 
 Prompt yang baik memiliki empat komponen utama:
-a. **Role:** Menentukan peran atau posisi yang harus dijalankan oleh AI.
-b. **Task:** Menjelaskan tugas yang harus dikerjakan oleh AI.
-c. **Context:** Memberikan informasi latar belakang dan kebutuhan dari tugas tersebut.
-d. **Format:** Menentukan bentuk atau format hasil yang diharapkan.
+
+1) **Role:** Menentukan peran atau posisi yang harus dijalankan oleh AI.
+2) **Task:** Menjelaskan tugas yang harus dikerjakan oleh AI.
+3) **Context:** Memberikan informasi latar belakang dan kebutuhan dari tugas tersebut.
+4) **Format:** Menentukan bentuk atau format hasil yang diharapkan.
 
 #### 4. Contoh Penerapan Prompt
 
 Salah satu contoh yang diberikan dalam workshop adalah pembuatan aplikasi sederhana bernama *Student Task Planner*. Aplikasi tersebut ditujukan untuk membantu mahasiswa tahun pertama dalam mengelola tugas dan tenggat waktu. Beberapa kebutuhan aplikasinya meliputi:
-a. Menampilkan daftar tugas.
-b. Menampilkan judul dan tenggat waktu setiap tugas.
-c. Menampilkan status penyelesaian tugas.
-d. Memberikan fitur untuk menandai tugas yang telah selesai.
-e. Menyediakan filter tugas berdasarkan status.
+
+1) Menampilkan daftar tugas.
+2) Menampilkan judul dan tenggat waktu setiap tugas.
+3) Menampilkan status penyelesaian tugas.
+4) Memberikan fitur untuk menandai tugas yang telah selesai.
+5) Menyediakan filter tugas berdasarkan status.
 
 #### 5. Keuntungan Prompt Engineering
 
 Beberapa keuntungan Prompt Engineering antara lain:
-a. Meningkatkan performa AI model.
-b. Mengurangi bias dan respons yang bersifat ofensif.
-c. Meningkatkan kontrol dan prediktabilitas.
-d. Memberikan pengalaman pengguna yang lebih baik.
+
+1) Meningkatkan performa AI model.
+2) Mengurangi bias dan respons yang bersifat ofensif.
+3) Meningkatkan kontrol dan prediktabilitas.
+4) Memberikan pengalaman pengguna yang lebih baik.
 
 ---
 
@@ -87,14 +94,9 @@ GitHub merupakan platform berbasis web yang digunakan untuk menyimpan repository
 
 Dalam Git terdapat tiga bagian utama yang menjadi bagian dari alur kerja pengelolaan proyek:
 
-**a. Working Directory**
-Merupakan salinan proyek yang sedang dikerjakan. File di dalamnya dapat dibuka, digunakan, dan dimodifikasi oleh pengguna.
-
-**b. Staging Area**
-Merupakan tempat untuk menyimpan informasi mengenai perubahan file yang akan dimasukkan ke dalam commit berikutnya. Dalam istilah teknis Git, staging area disebut sebagai index.
-
-**c. Git Directory**
-Merupakan tempat Git menyimpan metadata dan object database dari sebuah proyek. Bagian ini menyimpan informasi yang dibutuhkan Git untuk mengelola proyek.
+1) **Working Directory** : salinan proyek yang sedang dikerjakan. File di dalamnya dapat dibuka, digunakan, dan dimodifikasi oleh pengguna.
+2) **Staging Area** : tempat untuk menyimpan informasi mengenai perubahan file yang akan dimasukkan ke dalam commit berikutnya. Dalam istilah teknis Git, staging area disebut sebagai index.
+3) **Git Directory** : tempat Git menyimpan metadata dan object database dari sebuah proyek. Bagian ini menyimpan informasi yang dibutuhkan Git untuk mengelola proyek.
 
 #### 5. Essential Git Commands
 
@@ -176,12 +178,12 @@ git init
 
 **Cara kedua: Menggunakan repository GitHub**
 
-1. Membuka GitHub.
-2. Membuat repository baru.
-3. Membuka tombol Code.
-4. Menyalin URL repository.
-5. Membuka terminal pada komputer lokal.
-6. Menjalankan perintah:
+1) Membuka GitHub.
+2) Membuat repository baru.
+3) Membuka tombol Code.
+4) Menyalin URL repository.
+5) Membuka terminal pada komputer lokal.
+6) Menjalankan perintah:
 
 ```bash
 git clone URL
